@@ -16,7 +16,6 @@
 
 <div class="section-inner sectionLayout--insetColumn">
 
-### Object Detection and Instance Segmentation: A detailed overview
 
 Object Detection is by far one of the most important fields of research in Computer Vision. Researchers have for a long time been interested in this field, but significant results were produced in the recent years owing to the rise of Convnets as feature extractors and Transfer Learning as method of passing on previous knowledge. Early object detectors were based on handcrafted features, and employed a sliding window based approach which was computationally inefficient and less accurate. Modern techniques include Region Proposal Methods, Single Shot Methods, Anchor Free Methods and so on .
 
