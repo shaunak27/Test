@@ -36,7 +36,7 @@ This broadly consists of two steps :
 
 <figure name="fe0f" id="fe0f" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 640px; max-height: 270px;">![](https://cdn-images-1.medium.com/max/800/1*pWoHu_uUDebBSSNmyMydLQ.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 640px; max-height: 270px;"><img src="https://cdn-images-1.medium.com/max/800/1*pWoHu_uUDebBSSNmyMydLQ.png"(https://cdn-images-1.medium.com/max/800/1*pWoHu_uUDebBSSNmyMydLQ.png)</div>
 
 </figure>
 
@@ -52,7 +52,7 @@ This broadly consists of two steps :
 
 <figure name="da3d" id="da3d" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 446px;"><img src = "https://cdn-images-1.medium.com/max/800/1*XGpOlTBTS3SBKdvsoQoZ8g.png">(https://cdn-images-1.medium.com/max/800/1*XGpOlTBTS3SBKdvsoQoZ8g.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 446px;"><img src = "https://cdn-images-1.medium.com/max/800/1*XGpOlTBTS3SBKdvsoQoZ8g.png"(https://cdn-images-1.medium.com/max/800/1*XGpOlTBTS3SBKdvsoQoZ8g.png)</div>
 
 </figure>
 
@@ -60,7 +60,7 @@ This broadly consists of two steps :
 
 <figure name="429f" id="429f" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 370px; max-height: 370px;"><img src="https://cdn-images-1.medium.com/max/800/1*u_d3V4ppQr2Cht0BvYpbbg.jpeg">(https://cdn-images-1.medium.com/max/800/1*u_d3V4ppQr2Cht0BvYpbbg.jpeg)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 370px; max-height: 370px;"><img src="https://cdn-images-1.medium.com/max/800/1*u_d3V4ppQr2Cht0BvYpbbg.jpeg"(https://cdn-images-1.medium.com/max/800/1*u_d3V4ppQr2Cht0BvYpbbg.jpeg)</div>
 
 </figure>
 
@@ -72,7 +72,7 @@ Where (bx, by) are the co-ordinates of the center of the box and bh, bw are the 
 
 <figure name="b50b" id="b50b" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 477px; max-height: 351px;"><img src="https://cdn-images-1.medium.com/max/800/1*m4h0ng0rfMVYPSY93WxDpw.png">(https://cdn-images-1.medium.com/max/800/1*m4h0ng0rfMVYPSY93WxDpw.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 477px; max-height: 351px;"><img src="https://cdn-images-1.medium.com/max/800/1*m4h0ng0rfMVYPSY93WxDpw.png"(https://cdn-images-1.medium.com/max/800/1*m4h0ng0rfMVYPSY93WxDpw.png)</div>
 
 </figure>
 
@@ -80,7 +80,7 @@ Where (bx, by) are the co-ordinates of the center of the box and bh, bw are the 
 
 <figure name="80b4" id="80b4" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 500px; max-height: 196px;"><img src="https://cdn-images-1.medium.com/max/800/1*qnVj5T81pGHSMBDdzv5nAA.png">(https://cdn-images-1.medium.com/max/800/1*qnVj5T81pGHSMBDdzv5nAA.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 500px; max-height: 196px;"><img src="https://cdn-images-1.medium.com/max/800/1*qnVj5T81pGHSMBDdzv5nAA.png"(https://cdn-images-1.medium.com/max/800/1*qnVj5T81pGHSMBDdzv5nAA.png)</div>
 
 </figure>
 
@@ -98,7 +98,7 @@ It is an evaluation metric used to check the accuracy of the predicted bounding 
 
 <figure name="0ccf" id="0ccf" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 600px; max-height: 468px;"><img src="https://cdn-images-1.medium.com/max/800/1*2LPQLE87SJBRCSXhpow9sA.png">(https://cdn-images-1.medium.com/max/800/1*2LPQLE87SJBRCSXhpow9sA.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 600px; max-height: 468px;"><img src="https://cdn-images-1.medium.com/max/800/1*2LPQLE87SJBRCSXhpow9sA.png"(https://cdn-images-1.medium.com/max/800/1*2LPQLE87SJBRCSXhpow9sA.png)</div>
 
 </figure>
 
@@ -106,7 +106,7 @@ An IOU of > 0.5 is considered as a good prediction and is used for further evalu
 
 <figure name="3d7b" id="3d7b" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 600px; max-height: 248px;">>img src="https://cdn-images-1.medium.com/max/800/1*JoyOqNm42i90sM2Y7VWBYA.png">(https://cdn-images-1.medium.com/max/800/1*JoyOqNm42i90sM2Y7VWBYA.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 600px; max-height: 248px;">>img src="https://cdn-images-1.medium.com/max/800/1*JoyOqNm42i90sM2Y7VWBYA.png"(https://cdn-images-1.medium.com/max/800/1*JoyOqNm42i90sM2Y7VWBYA.png)</div>
 
 </figure>
 
@@ -114,7 +114,7 @@ An IOU of > 0.5 is considered as a good prediction and is used for further evalu
 
 <figure name="f10b" id="f10b" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 323px;">img src="https://cdn-images-1.medium.com/max/800/1*LHMO63plv3iPp_0oQQcu5A.png">(https://cdn-images-1.medium.com/max/800/1*LHMO63plv3iPp_0oQQcu5A.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 323px;">img src="https://cdn-images-1.medium.com/max/800/1*LHMO63plv3iPp_0oQQcu5A.png"(https://cdn-images-1.medium.com/max/800/1*LHMO63plv3iPp_0oQQcu5A.png)</div>
 
 </figure>
 
@@ -124,7 +124,7 @@ Each pixel in our mask is labeled either a `1` or `0` (`true` or `false`) for wh
 
 <figure name="8380" id="8380" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 400px; max-height: 400px;"><img src="https://cdn-images-1.medium.com/max/800/1*4iU-yNAuESbgMKOytGs46g.jpeg">(https://cdn-images-1.medium.com/max/800/1*4iU-yNAuESbgMKOytGs46g.jpeg)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 400px; max-height: 400px;"><img src="https://cdn-images-1.medium.com/max/800/1*4iU-yNAuESbgMKOytGs46g.jpeg"(https://cdn-images-1.medium.com/max/800/1*4iU-yNAuESbgMKOytGs46g.jpeg)</div>
 
 <figcaption class="imageCaption">Binary Mask for a cat</figcaption>
 
@@ -138,7 +138,7 @@ Firstly,
 
 <figure name="89ce" id="89ce" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 43px;"><img src="https://cdn-images-1.medium.com/max/800/1*Ifj2xS6bT16DWpHBwE21BQ.png">(https://cdn-images-1.medium.com/max/800/1*Ifj2xS6bT16DWpHBwE21BQ.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 43px;"><img src="https://cdn-images-1.medium.com/max/800/1*Ifj2xS6bT16DWpHBwE21BQ.png"(https://cdn-images-1.medium.com/max/800/1*Ifj2xS6bT16DWpHBwE21BQ.png)</div>
 
 </figure>
 
@@ -154,7 +154,7 @@ As a convention, mAP is expressed as a percent value.
 
 <figure name="74a1" id="74a1" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 252px;"><img src="https://cdn-images-1.medium.com/max/800/1*vX4wUj_XMk17nYaC82lhBQ.jpeg">(https://cdn-images-1.medium.com/max/800/1*vX4wUj_XMk17nYaC82lhBQ.jpeg)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 252px;"><img src="https://cdn-images-1.medium.com/max/800/1*vX4wUj_XMk17nYaC82lhBQ.jpeg"(https://cdn-images-1.medium.com/max/800/1*vX4wUj_XMk17nYaC82lhBQ.jpeg)</div>
 
 </figure>
 
@@ -174,7 +174,7 @@ It first runs a graph based image segmentation algorithm to obtain the initial r
 
 <figure name="adb4" id="adb4" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 682px; max-height: 449px;"<img src="https://cdn-images-1.medium.com/max/800/1*CZj5NjOZKndKIS8iqn_nJw.jpeg">(https://cdn-images-1.medium.com/max/800/1*CZj5NjOZKndKIS8iqn_nJw.jpeg)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 682px; max-height: 449px;"<img src="https://cdn-images-1.medium.com/max/800/1*CZj5NjOZKndKIS8iqn_nJw.jpeg"(https://cdn-images-1.medium.com/max/800/1*CZj5NjOZKndKIS8iqn_nJw.jpeg)</div>
 
 </figure>
 
@@ -232,7 +232,7 @@ Process:
 
 <figure name="1aec" id="1aec" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 278px; max-height: 181px;"><img src="https://cdn-images-1.medium.com/max/800/1*Zirwh-FDdgXX2fz7Qgy_mA.jpeg">(https://cdn-images-1.medium.com/max/800/1*Zirwh-FDdgXX2fz7Qgy_mA.jpeg)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 278px; max-height: 181px;"><img src="https://cdn-images-1.medium.com/max/800/1*Zirwh-FDdgXX2fz7Qgy_mA.jpeg"(https://cdn-images-1.medium.com/max/800/1*Zirwh-FDdgXX2fz7Qgy_mA.jpeg)</div>
 
 </figure>
 
@@ -252,7 +252,7 @@ Architecture and Operation:
 
 <figure name="2f33" id="2f33" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 548px; max-height: 543px;"><img src="https://cdn-images-1.medium.com/max/800/1*NXWE7BHug0i-FQlHo5xa7w.png">(https://cdn-images-1.medium.com/max/800/1*NXWE7BHug0i-FQlHo5xa7w.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 548px; max-height: 543px;"><img src="https://cdn-images-1.medium.com/max/800/1*NXWE7BHug0i-FQlHo5xa7w.png"(https://cdn-images-1.medium.com/max/800/1*NXWE7BHug0i-FQlHo5xa7w.png)</div>
 
 </figure>
 
@@ -290,7 +290,7 @@ Architecture and Implementation:
 
 <figure name="ceaa" id="ceaa" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 321px;"><img src="https://cdn-images-1.medium.com/max/800/1*Vlnu9esS7GSi9l8Yvo1XRw.jpeg">(https://cdn-images-1.medium.com/max/800/1*Vlnu9esS7GSi9l8Yvo1XRw.jpeg)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 321px;"><img src="https://cdn-images-1.medium.com/max/800/1*Vlnu9esS7GSi9l8Yvo1XRw.jpeg"(https://cdn-images-1.medium.com/max/800/1*Vlnu9esS7GSi9l8Yvo1XRw.jpeg)</div>
 
 </figure>
 
@@ -308,7 +308,7 @@ iii. To Counter this, Mask Rcnn uses the ROI Align layer which uses bi-linear in
 
 <figure name="7938" id="7938" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 284px; max-height: 177px;"><img src="https://cdn-images-1.medium.com/max/800/1*HuzsE1q4zzHYzeb9gOrPJA.jpeg">(https://cdn-images-1.medium.com/max/800/1*HuzsE1q4zzHYzeb9gOrPJA.jpeg)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 284px; max-height: 177px;"><img src="https://cdn-images-1.medium.com/max/800/1*HuzsE1q4zzHYzeb9gOrPJA.jpeg"(https://cdn-images-1.medium.com/max/800/1*HuzsE1q4zzHYzeb9gOrPJA.jpeg)</div>
 
 </figure>
 
