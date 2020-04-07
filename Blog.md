@@ -6,7 +6,7 @@
 
 </header>
 
-<section data-field="subtitle" class="p-summary">Object Detection is by far one of the most important fields of research in Computer Vision. Researchers have for a long time been…</section>
+<section data-field="subtitle" class="p-summary">Object Detection is by far one of the most important fields of research in Computer Vision. Researchers have for a long time been </section>
 
 <section data-field="body" class="e-content">
 
@@ -44,7 +44,7 @@ This broadly consists of two steps :
 
 <figure name="432a" id="432a" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 318px; max-height: 159px;">![](https://cdn-images-1.medium.com/max/800/1*5jK-um9WuXJhN8d0HjSNbg.jpeg)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 318px; max-height: 159px;">![<img src="https://cdn-images-1.medium.com/max/800/1*5jK-um9WuXJhN8d0HjSNbg.jpeg"](https://cdn-images-1.medium.com/max/800/1*5jK-um9WuXJhN8d0HjSNbg.jpeg)</div>
 
 </figure>
 
