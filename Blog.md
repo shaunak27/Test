@@ -6,13 +6,7 @@
 
 </header>
 
-<section data-field="subtitle" class="p-summary">Object Detection is by far one of the most important fields of research in Computer Vision. Researchers have for a long time been </section>
 
-<section data-field="body" class="e-content">
-
-<section name="41a0" class="section section--body section--first section--last">
-
-<div class="section-divider">
 
 * * *
 
