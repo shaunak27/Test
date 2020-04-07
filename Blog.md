@@ -106,7 +106,7 @@ An IOU of > 0.5 is considered as a good prediction and is used for further evalu
 
 <figure name="3d7b" id="3d7b" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 600px; max-height: 248px;">>img src="https://cdn-images-1.medium.com/max/800/1*JoyOqNm42i90sM2Y7VWBYA.png"(https://cdn-images-1.medium.com/max/800/1*JoyOqNm42i90sM2Y7VWBYA.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 600px; max-height: 248px;"><img src="https://cdn-images-1.medium.com/max/800/1*JoyOqNm42i90sM2Y7VWBYA.png"(https://cdn-images-1.medium.com/max/800/1*JoyOqNm42i90sM2Y7VWBYA.png)</div>
 
 </figure>
 
@@ -114,7 +114,7 @@ An IOU of > 0.5 is considered as a good prediction and is used for further evalu
 
 <figure name="f10b" id="f10b" class="graf graf--figure graf-after--p">
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 323px;">img src="https://cdn-images-1.medium.com/max/800/1*LHMO63plv3iPp_0oQQcu5A.png"(https://cdn-images-1.medium.com/max/800/1*LHMO63plv3iPp_0oQQcu5A.png)</div>
+<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 323px;"><img src="https://cdn-images-1.medium.com/max/800/1*LHMO63plv3iPp_0oQQcu5A.png"(https://cdn-images-1.medium.com/max/800/1*LHMO63plv3iPp_0oQQcu5A.png)</div>
 
 </figure>
 
