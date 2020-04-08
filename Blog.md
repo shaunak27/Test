@@ -334,8 +334,9 @@ Connect With Me on [**_Linkedin_**](http://www.linkedin.com/in/shaunak-halbe-565
 
 <footer>
 
-By [Shaunak Halbe](https://medium.com/@shaunak.halbe) on [<time class="dt-published" datetime="2020-03-16T05:37:51.686Z">March 16, 2020</time>](https://medium.com/p/94ca109274f2).
-Member,[DSAI CLUB](https://www.coep.org.in/dsai/)
+By [Shaunak Halbe](https://medium.com/@shaunak.halbe)<br>
+Member,[DSAI CLUB](https://www.coep.org.in/dsai/)<br>
+on [<time class="dt-published" datetime="2020-03-16T05:37:51.686Z">March 16, 2020</time>](https://medium.com/p/94ca109274f2).
 
 [Canonical link](https://medium.com/@shaunak.halbe/object-detection-and-instance-segmentation-a-detailed-overview-94ca109274f2)
 
